@@ -1,0 +1,32 @@
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif;
+    line-height: 1.2;
+}
+
+/* Select by id  */
+#dummy-selector {
+    background-color: blue;
+    width: 100px;
+    border-radius: 6px;
+    color: white;
+    padding: 3px 9px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.amazing-button {
+    background-color: rgb(7, 219, 113);
+    border-radius: 6px;
+    color: white;
+    padding: 3px 9px;
+    text-align: center;
+    margin-bottom: 30px;
+    display: inline-block;
+    border: 1px solid #019001;
+    cursor: pointer;
+}
+
+.amazing-button:hover {
+   background-color: rgb(96, 237, 167);
+}
