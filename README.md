@@ -6,7 +6,17 @@ This project is designed for students learning HTML and CSS.
 
 Before running this project, you need to install the following tools on your computer:
 
-### 1. Node.js (LTS version)
+### 1. Visual Studio Code
+
+Visual Studio Code is a free code editor that makes it easy to write and edit HTML and CSS.
+
+**Installation:**
+- Visit [https://code.visualstudio.com/](https://code.visualstudio.com/)
+- Download Visual Studio Code for your operating system
+- Follow the installation instructions for your OS (Windows, macOS, or Linux)
+- Once installed, you can open this project folder in VS Code to start coding
+
+### 2. Node.js (LTS version)
 
 Node.js is required to run the local development server.
 
@@ -19,7 +29,7 @@ Node.js is required to run the local development server.
   node --version
   ```
 
-### 2. Git
+### 3. Git
 
 Git is a version control system that helps manage your code.
 
@@ -34,7 +44,7 @@ Git is a version control system that helps manage your code.
 
 ## Running the Project
 
-Once you have Node.js and Git installed:
+Once you have Visual Studio Code, Node.js, and Git installed:
 
 1. Open a terminal/command prompt
 2. Navigate to the project directory
