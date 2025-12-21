@@ -59,4 +59,3 @@ Once you have Visual Studio Code, Node.js, and Git installed:
 ## Stopping the Server
 
 To stop the server, press `Ctrl + C` (or `Cmd + C` on macOS) in the terminal.
-
